@@ -1,10 +1,10 @@
-## Opa tudo bom? Sou o Bryan 👋
+## Opa tudo bom? Sou o Bryan 🎸
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bryan-matheus-5aa0a3302/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bryanassis244@gmail.com)
 
 ## Quem sou eu?
 Ola sou um estudante na area de tecnologia, adoro e sempre procuro obter conhecimento sobre como as tecnologias funcionam.
-Procuro deixar neste perfil diversos projetos sejam complicados ou simples, caso possua interesse sinta-se livre para dar uma olhada!
+Deixarei neste perfil diversos projetos sejam complicados ou simples, caso possua interesse sinta-se livre para dar uma olhada!
 
 ## Conhecimento
 
